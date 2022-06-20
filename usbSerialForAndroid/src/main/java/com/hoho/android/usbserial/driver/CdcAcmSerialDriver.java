@@ -309,6 +309,10 @@ public class CdcAcmSerialDriver implements UsbSerialDriver {
                 new int[] {
                     UsbId.ATMEL_LUFA_CDC_DEMO_APP,
                 });
+        supportedDevices.put(UsbId.VENDOR_ATMEL,
+                new int[] {
+                        UsbId.ATMEL_AT91_SAMBA_CDC,
+                });
         supportedDevices.put(UsbId.VENDOR_LEAFLABS,
                 new int[] {
                     UsbId.LEAFLABS_MAPLE,
