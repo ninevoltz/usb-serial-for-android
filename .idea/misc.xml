@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programmer/usb-serial-for-android/usbSerialExamples/src/main/res/drawable/ic_send_white_24dp.xml" value="0.2355" />
+        <entry key="..\:/Programmer/usb-serial-for-android/usbSerialExamples/src/main/res/layout/activity_main.xml" value="0.245018115942029" />
+        <entry key="..\:/Programmer/usb-serial-for-android/usbSerialExamples/src/main/res/layout/device_list_header.xml" value="0.245018115942029" />
+        <entry key="..\:/Programmer/usb-serial-for-android/usbSerialExamples/src/main/res/layout/device_list_item.xml" value="0.245018115942029" />
+        <entry key="..\:/Programmer/usb-serial-for-android/usbSerialExamples/src/main/res/layout/fragment_terminal.xml" value="0.245018115942029" />
+      </map>
+    </option>
+  </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="NullableNotNullManager">
     <option name="myDefaultNullable" value="androidx.annotation.Nullable" />
